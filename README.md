@@ -52,7 +52,14 @@ The dashboard provides insights into:
 
 ## Screenshots
 
-_Add screenshots of the dashboard here to showcase the visual insights._  
+### Health Sleep Dashboard Overview
+![Health Sleep Dashboard](images/Screenshot128.png)
+
+### Activity Level vs Daily Steps
+![Activity Level vs Daily Steps](images/Screenshot129.png)
+
+### Full Dashboard View
+![Full Dashboard](images/Screenshot130.png)
 
 ## License
 
