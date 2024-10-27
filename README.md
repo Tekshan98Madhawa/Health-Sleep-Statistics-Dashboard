@@ -1,4 +1,4 @@
-Health and Sleep Habits Dashboard
+#Health and Sleep Habits Dashboard
 Overview
 This repository features an Excel-based dashboard that provides insights into individuals' health and sleep habits. The dashboard analyzes data on sleep quality, physical activity, and dietary habits, exploring how daily routines impact health and quality of life.
 
