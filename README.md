@@ -24,7 +24,6 @@ The dataset contains the following columns:
 - **Sleep Disorders**: Presence of sleep disorders (yes or no).
 - **Medication Usage**: Usage of medication for sleep disorders (yes or no).
 
-> **Note**: This dataset is fictional and was created solely for the purpose of data visualization and analysis.
 
 ## Project Structure
 
