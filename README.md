@@ -50,17 +50,3 @@ The dashboard provides insights into:
 
 - **Microsoft Excel** or any compatible software to view and interact with the `.xlsx` file.
 
-## Screenshots
-
-### Health Sleep Dashboard Overview
-![Health Sleep Dashboard](images/Screenshot (128).png)
-
-### Activity Level vs Daily Steps
-![Activity Level vs Daily Steps](images/Screenshot (129).png)
-
-### Full Dashboard View
-![Full Dashboard](images/Screenshot (130).png)
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
